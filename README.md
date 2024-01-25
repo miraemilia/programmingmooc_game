@@ -4,6 +4,10 @@ This is the final assingment for a course on advanced programming in Python (htt
 
 ![screenshot](readme-images/screenshot.png)
 
+# Description
+
+The goal of the game is to move through the labyrinth to the door at the end of the tunnel and collect as many points as possible. The robot moves using keyboard arrows (up, down, left, right). You cannot walk through doors. The robot gains points by collecting coins and loses points by touching ghosts. You can start a new game by pressing spacebar.
+
 # Requirements for running the code
 
 - Python3
